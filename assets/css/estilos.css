@@ -1,7 +1,7 @@
 
 
   li a{
-    color: rgb(163, 161, 161);
+    color: rgb(216, 187, 187);
     overflow: visible;
   }
 
@@ -10,7 +10,7 @@
     border-radius: 0.5rem;
     overflow: hidden;
     list-style-type: circle;
-    background-color: #494949;
+    background-color: #726767;
    }
 
     .derecha {
