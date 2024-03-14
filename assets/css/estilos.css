@@ -1,0 +1,39 @@
+
+
+  li a{
+    color: rgb(163, 161, 161);
+    overflow: visible;
+  }
+
+  ul {
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    list-style-type: circle;
+    background-color: #494949;
+   }
+
+    .derecha {
+    float:right;
+  }
+  
+  .miJumbo {
+    margin-top: 1rem;
+    padding: 32px 16px;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  .contenedor {
+    display: flex;
+  }
+  .center{
+    text-align: center;
+  }
+
+  h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  html{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
